@@ -13,8 +13,7 @@ aiohttp==3.8.4
 Pillow==10.0.0
 
 
-1. pip install -r requirements.txt
-
-2.1 python database_trial_main.py
-2.2 python excel_image.py <input_dir> <output_dir>
-2.3 python posting_time_main.py
+##1. pip install -r requirements.txt
+##2.1 python database_trial_main.py
+##2.2 python excel_image.py <input_dir> <output_dir>
+##2.3 python posting_time_main.py
