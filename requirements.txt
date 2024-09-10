@@ -3,7 +3,7 @@ selenium==4.16.0
 xlsxwriter==3.1.0
 asyncio==3.4.3  # Note: asyncio is included with Python 3.7+; this line is typically not required unless you're using an older Python version
 
-pandas==2.0.1
+#pandas==2.0.1
 matplotlib==3.7.1
 openpyxl==3.1.2
 
